@@ -85,7 +85,7 @@ DROP PLUGGABLE DATABASE [EL_pdb_29804] INCLUDING DATAFILES;
 ## Challenges and Solutions
 
 **Issue:** "Insufficient privileges" error when opening PDB 
-<img width="962" height="661" alt="wall1" src="https://github.com/user-attachments/assets/02cd0965-c3d3-49c3-90f1-3d16ced0e527" />
+![Screenshot](ScreenShots/ERROR.png)
 
 **Solution:** Reconnected as SYSDBA using `sqlplus / as sysdba`
 ![Screenshot](ScreenShots/CONNECTED_sysDBA.png)
