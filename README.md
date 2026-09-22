@@ -37,7 +37,7 @@ GRANT CONNECT, RESOURCE, DBA TO [ADRIEN_PLSQL_28955];
 ```
 
 **Evidence:** Screenshots show PDB creation, open state (READ WRITE), and user verification.
-<img width="959" height="951" alt="PDB_Creation" src="https://github.com/user-attachments/assets/cc8ddce1-63f4-495a-8ea8-19e47782ba74" />
+![Screenshot](ScreenShots/PDB_Creation.png)
 <img width="955" height="852" alt="PDB_Open" src="https://github.com/user-attachments/assets/5f6ee25c-0355-4c8c-9eff-bfcde40da7db" />
 <img width="958" height="990" alt="USER_Exists" src="https://github.com/user-attachments/assets/f311cccf-e7bb-4d51-b1ea-fb9944aa4318" />
 
