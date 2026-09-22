@@ -1,4 +1,4 @@
-<img width="884" height="234" alt="image" src="https://github.com/user-attachments/assets/9e795714-d77b-4136-bb88-5d4721638d1a" /># Oracle PDB Management Assignment
+# Oracle PDB Management Assignment
 
 ## Student Information
 - **Name:** Ella Ihimbazwe
@@ -84,7 +84,7 @@ DROP PLUGGABLE DATABASE [EL_pdb_29804] INCLUDING DATAFILES;
 
 ## Challenges and Solutions
 
-**Issue:** "Insufficient privileges" error when opening PDB 
+**Issue:** "USER DOES NOT EXIST " error when opening PDB 
 ![Screenshot](ScreenShots/ERROR.png)
 
 **Solution:** Reconnected as SYSDBA using `sqlplus / as sysdba`
